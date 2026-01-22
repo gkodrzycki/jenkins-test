@@ -8,4 +8,4 @@ Simple Python app used as a CI/CD example (Jenkins/Kubernetes) for university co
 
 
 ## Test
-Test run trigger2
+Test run trigger3
